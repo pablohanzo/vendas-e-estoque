@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imagens">
+        <file>imgs/cadeado-desbloqueado.png</file>
+        <file>imgs/fechadura.png</file>
+        <file>imgs/logo-casa de ferragens ijal.png</file>
+    </qresource>
+</RCC>

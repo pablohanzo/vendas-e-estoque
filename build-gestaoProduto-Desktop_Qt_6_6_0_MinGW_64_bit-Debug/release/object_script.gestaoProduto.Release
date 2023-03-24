@@ -1,0 +1,17 @@
+release/funcoes_globais.o
+release/gp_editarprodutovenda.o
+release/gp_gestaocolab.o
+release/gp_gestaoestoque.o
+release/gp_gestaovendas.o
+release/gp_logar.o
+release/gp_novavenda.o
+release/main.o
+release/gp_principal.o
+release/qrc_arquivo_de_recursos.o
+release/moc_gp_editarprodutovenda.o
+release/moc_gp_gestaocolab.o
+release/moc_gp_gestaoestoque.o
+release/moc_gp_gestaovendas.o
+release/moc_gp_logar.o
+release/moc_gp_novavenda.o
+release/moc_gp_principal.o

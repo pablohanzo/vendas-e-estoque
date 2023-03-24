@@ -1,0 +1,17 @@
+debug/funcoes_globais.o
+debug/gp_editarprodutovenda.o
+debug/gp_gestaocolab.o
+debug/gp_gestaoestoque.o
+debug/gp_gestaovendas.o
+debug/gp_logar.o
+debug/gp_novavenda.o
+debug/main.o
+debug/gp_principal.o
+debug/qrc_arquivo_de_recursos.o
+debug/moc_gp_editarprodutovenda.o
+debug/moc_gp_gestaocolab.o
+debug/moc_gp_gestaoestoque.o
+debug/moc_gp_gestaovendas.o
+debug/moc_gp_logar.o
+debug/moc_gp_novavenda.o
+debug/moc_gp_principal.o
